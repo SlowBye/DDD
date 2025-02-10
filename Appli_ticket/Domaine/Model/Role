@@ -1,0 +1,5 @@
+Enum Role
+    Technicien
+    ChefProjet
+    ResponsableIT
+    DirecteurOperations

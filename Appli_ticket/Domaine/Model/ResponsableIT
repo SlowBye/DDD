@@ -1,0 +1,5 @@
+Classe ResponsableIT : Employé
+        Spécialité : Chaîne  // Spécialité ou domaine d'expertise du Responsable IT
+        ListeTickets : Liste de Tickets  // Liste des tickets liés au Responsable IT
+        RapportsPerformances : Liste de Rapports  // Liste des rapports de performance
+        HistoriqueInterventions : Liste d'EntréeHistorique  // Historique des interventions

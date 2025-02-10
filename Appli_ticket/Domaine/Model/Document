@@ -1,0 +1,6 @@
+Classe Documentation
+        Id : Entier
+        Titre : Chaîne
+        Contenu : Chaîne
+        Catégorie : Chaîne
+        Historique : Liste d'EntréeHistorique

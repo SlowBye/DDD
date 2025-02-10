@@ -1,0 +1,4 @@
+Classe Technicien : Employé
+        Spécialité : Chaîne  // Spécialité technique (ex : Réseau, Développement, etc.)
+        TicketsAssignés : Liste de Tickets  // Liste des tickets assignés au technicien
+        HistoriqueInterventions : Liste d'EntréeHistorique  // Historique des interventions effectuées

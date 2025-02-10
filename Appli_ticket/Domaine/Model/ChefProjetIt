@@ -1,0 +1,4 @@
+Classe ChefProjetIt : Employé
+        ProjetsEnCours : Liste de Projets  // Liste des projets en cours
+        TicketsDéploiement : Liste de Tickets  // Liste des tickets liés aux déploiements
+        RetoursSupport : Liste de Retours  // Retours du support sur les nouveaux outils

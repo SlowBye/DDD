@@ -1,0 +1,7 @@
+Classe Employé
+        Id : Entier
+        Nom : Chaîne
+        Prénom : Chaîne
+        Département : Chaîne
+        ListeTicketsCréés : Liste de Tickets
+        Rôle : Role  // Rôle de l'employé (peut être Technicien, ChefProjet, ou ResponsableIT)

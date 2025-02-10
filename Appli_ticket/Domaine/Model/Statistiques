@@ -1,0 +1,6 @@
+Classe Statistique
+        Id : Entier
+        NombreTicketsRésolus : Entier  
+        NombreTicketsCréés : Entier  
+        TempsMoyenRésolution : Entier  
+       

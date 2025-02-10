@@ -1,0 +1,9 @@
+Classe Ticket
+        Id : Entier
+        Description : Chaîne
+        Statut : Chaîne  
+        Priorité : Chaîne 
+        DateCreation : Date
+        Créateur : Employé
+        Technicien : Technicien
+        Historique : Liste d'EntréeHistorique
